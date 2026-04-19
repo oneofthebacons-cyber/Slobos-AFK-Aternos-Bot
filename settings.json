@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "thegooner1.aternos.me",
-    "port": 51252,
+    "port" 51252,
     "version": "",
     "try-creative": false
   },
